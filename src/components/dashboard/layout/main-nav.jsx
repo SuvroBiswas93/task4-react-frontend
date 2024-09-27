@@ -43,7 +43,6 @@ export function MainNav({ onToggle }) {
             >
               {getUserFirstAndLastChar(user)}
             </p>
-            {/* <p className="text-muted small">Md Rasel Khan</p> */}
           </div>
         </OverlayTrigger>
       </div>
